@@ -5,5 +5,5 @@
 
 | 模块名称       | 模块描述          |  
 | ------------- |:-------------:|
-|[spring-boot](spring-boot)|Spring Boot| 
-|[spring-cloud](spring-cloud)|Spring Cloud| 
+|[spring-boot](spring-boot)|Spring Boot 学习示例代码| 
+|[spring-cloud](spring-cloud)|Spring Cloud 学习示例代码| 
