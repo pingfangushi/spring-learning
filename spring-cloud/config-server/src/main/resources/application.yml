@@ -1,0 +1,6 @@
+spring:
+  application:
+    #应用名称
+    name: 'config-server'
+server:
+  port: 8888

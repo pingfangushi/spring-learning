@@ -1,0 +1,10 @@
+spring:
+  cloud:
+    config:
+      # 配置中心地址
+      uri: 'http://127.0.0.1:8888'
+      # label 默认 master
+      label: 'master'
+  application:
+    #应用名称
+    name: 'config-client'
